@@ -11,7 +11,7 @@ import streamlit as st
 from pyecharts.charts import Line
 from pyecharts import options as opts
 from pyecharts.globals import ThemeType
-from streamlit_echarts import st_pyecharts
+fromstreamlit_ec harts import st_pyecharts
 
 # -------------------------------------------------
 # 기본 설정 + 폰트 주입
